@@ -1,0 +1,256 @@
+
+/*     services card     */
+@media (max-width:1240px) {
+    .owl-prev span{
+        left:92%;
+    }
+    .fashion-content h2{
+        font-size: 1.3em;
+    }
+    .fashion-content span{
+        font-size: .8em;
+    }
+    .fashion-content a{
+        font-size: .7em;
+    }
+
+    .handbag-content h2{
+        font-size: 1.1em;
+    }
+    .handbag-content h5{
+        font-size: .8em;
+    }
+    .handbag-content span{
+        font-size: .8em;
+    }
+    .handbag-content a{
+        font-size: .7em;
+    }
+
+    .electronices-content h2{
+        font-size: 1.1em;
+    }
+    .electronices-content h5{
+        font-size: .8em;
+    }
+    .electronices-content span{
+        font-size: .8em;
+    }
+    .electronices-content a{
+        font-size: .7em;
+    }
+
+    .footer-2 h3{
+        font-size: 1em;
+    }
+    .footer-1 h3{
+        font-size: 1em;
+    }
+}
+
+@media (max-width:1030px) {
+    .topheader{
+        font-size: .7em;
+    }
+    .inspire-header-3 h5{
+        font-size: .7em;
+    }
+    .header-box a{
+        margin: 0px 10px;
+        font-size: .7em;
+    }
+    .header-search{
+        display: none;
+    }
+    .cards-rec{
+        width: 32%;
+    }
+    .blog-card{
+        width: 90%;
+    }
+}
+
+@media (max-width:992px) {
+    .owl-prev span{
+        left:88%;
+    }
+    .dis-offer-return span{
+        font-size: .7em;
+    }
+    .fashion-content{
+        padding: 0em .5em;
+        position: absolute;
+        top: 30%;
+    }
+    .fashion-content h5{
+        font-size: .7em;
+    }
+    .fashion-content h2{
+        font-size: 1em;
+    }
+    .fashion-content span{
+        font-size: .7em;
+    }
+    .fashion-content a{
+        font-size: .6em;
+    }
+
+    .handbag-content {
+        padding: 0em .5em;
+        position: absolute;
+        top: 30%;
+        left: 47%;
+    }
+    .handbag-content h2{
+        font-size: 1em;
+    }
+    .handbag-content h5{
+        font-size: .6em;
+    }
+    .handbag-content span{
+        font-size: .6em;
+    }
+    .handbag-content a{
+        font-size: .6em;
+    }
+
+    .electronices-content{
+    text-align: center;
+    padding: 0em 1em;
+    position: absolute;
+    top: 50%;
+    left: 15%;
+    }
+    .electronices-content h2{
+        font-size: 1.1em;
+    }
+    .electronices-content h5{
+        font-size: .8em;
+    }
+    .electronices-content span{
+        font-size: .8em;
+    }
+    .electronices-content a{
+        font-size: .7em;
+    }
+    .collection-content p{
+        font-size: 1.4em;
+    }
+    .footer-1{
+        width: 34%;
+    }
+    .footer-2{
+        width: 34%;
+    }
+}
+
+@media (max-width:768px) {
+    .header{
+        padding: .5em;
+    }
+    .cart{
+        display: none;
+    }
+    .header-box{
+        display: none;
+    }
+    .topheader{
+        display: none;
+    }
+    .inspire-header-2{
+        display: none;
+    }
+    .header-box a{
+        margin: 0px 10px;
+        font-size: .7em;
+    }
+    .header-search{
+        display: block;
+    }
+    .threedot{
+        color:#fff;
+        display: block;
+    }
+    .headercart a{
+        color: #ff6c00;
+        display: block;
+        text-decoration: none;
+    }
+    .headercart span{
+        color: #fff;
+    }
+    .fashion-card{
+        width: 100%;
+        height: 300px;
+        margin: .3em 0em;
+    }
+    .fashion-content{
+        position: absolute;
+        top: 61%;
+    }
+    .fashion-content h2{
+        font-size: 2em;
+    }
+    .fashion-content h5{
+        font-size: 1em;
+    }
+    .fashion-content span{
+        font-size: 1em;
+    }
+    .fashion-content a{
+        font-size: 1em;
+    }
+
+    .electronices-content{
+        position: absolute;
+        top: 68%;
+        left: 35%;
+    }
+    .electronices-content h2{
+            font-size: 1.5em;
+        }
+    .electronices-content h5{
+            font-size: 1em;
+        }
+    .electronices-content span{
+            font-size: 1em;
+        }
+    .electronices-content a{
+            font-size: 1em;
+    }
+    
+    .handbag-content {
+        padding: 0em .5em;
+        position: absolute;
+        top: 36%;
+        left: 50%;
+    }
+    .handbag-content h2{
+        font-size: 1.5em;
+    }
+    .handbag-content h5{
+        font-size: 1em;
+    }
+    .handbag-content span{
+        font-size: 1em;
+    }
+    .handbag-content a{
+        font-size: 1em;
+    }
+    .dis-offer-return {
+        display: none;
+    }
+
+    .cards-rec {
+        width: 49%;
+    }
+
+    .news-shoping{
+        width: 100%;
+    }
+    .top-collection{
+        display: none;
+
+    }
+    
+}
